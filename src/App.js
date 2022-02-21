@@ -25,6 +25,9 @@ function App() {
         <li>Webpack</li>
       </ul>
       <Tarjetas></Tarjetas>
+      <Tarjetas></Tarjetas>
+      <Tarjetas></Tarjetas>
+      <Tarjetas></Tarjetas>
 
       <Footer action={alertMsg}></Footer>
     </div>
